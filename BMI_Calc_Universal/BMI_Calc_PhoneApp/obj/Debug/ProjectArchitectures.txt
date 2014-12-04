@@ -1,0 +1,1 @@
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp.csproj;neutral

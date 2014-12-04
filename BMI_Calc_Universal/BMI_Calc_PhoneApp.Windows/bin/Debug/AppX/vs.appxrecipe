@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-T7RAM6L5C79</Machine>
+    <WindowsUser>Alex</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>470564c8-551c-48e1-bd8b-eb1746adcaba</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D6AF3EEB1D3D6C4AF2160E6C702DD456BB4F5975517991A2174A67B5520D3439</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>470564c8-551c-48e1-bd8b-eb1746adcaba_1.0.0.0_neutral__cb1hhkscw5m06</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>470564c8-551c-48e1-bd8b-eb1746adcaba_cb1hhkscw5m06!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>470564c8-551c-48e1-bd8b-eb1746adcaba</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alex</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-04T10:00:13.176</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\BMI_Calc_PhoneApp.Windows.exe">
+      <PackagePath>BMI_Calc_PhoneApp.Windows.exe</PackagePath>
+      <Modified>2014-12-04T10:00:12.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T14:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-07T21:55:36.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-07T21:55:36.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\BMI_Calc_PhoneApp.Windows.xr.xml">
+      <PackagePath>BMI_Calc_PhoneApp.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-04T10:00:12.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-04T10:00:12.900</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

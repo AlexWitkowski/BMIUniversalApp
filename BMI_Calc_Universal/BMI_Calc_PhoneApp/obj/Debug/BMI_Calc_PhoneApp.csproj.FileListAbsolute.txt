@@ -1,0 +1,128 @@
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\App.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.xr.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\resources.pri
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.build.appxrecipe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\App.xaml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\App.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_PhoneApp\BMI_Calc_PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\App.xbf
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.xr.xml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\resources.pri
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.build.appxrecipe
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\App.g.cs
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\App.xaml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\App.xbf
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\James\Documents\Other VS Projects\BMI_Calc_PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\App.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.xr.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\resources.pri
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.build.appxrecipe
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.xaml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alex\Documents\College\Term6\PROG1698\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\App.xbf
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\MainPage.xbf
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.xr.xml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\resources.pri
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\AppxManifest.xml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\bin\Debug\BMI_Calc_PhoneApp.build.appxrecipe
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.g.i.cs
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.i.cs
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.g.cs
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.xaml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.xaml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\App.xbf
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MainPage.xbf
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.exe
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\BMI_Calc_PhoneApp.pdb
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Alex\Desktop\BMI_Calc_Universal\BMI_Calc_PhoneApp\obj\Debug\ProjectArchitectures.txt
